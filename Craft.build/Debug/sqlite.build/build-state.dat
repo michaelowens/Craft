@@ -1,0 +1,207 @@
+Tsqlite
+v6
+r1
+cCheck dependencies
+cCompileC Craft.build/Debug/sqlite.build/Objects-normal/x86_64/shell.o /Users/michael/Documents/Programming/Craft/sqlite/shell.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Craft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite3.o /Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/michael/Documents/Programming/Craft/libsqlite.a normal x86_64
+cCpHeader sqlite/sqlite3.h usr/local/include/sqlite3.h
+cCpHeader sqlite/sqlite3ext.h usr/local/include/sqlite3ext.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000528222B400000000000000AA
+t1384260276
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052677AF3000000000000044C
+t1382513395
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052677AF300000000000001DB
+t1382513395
+s475
+
+N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/Objects-normal/x86_64/shell.o
+t1387207030
+s110816
+
+N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite.LinkFileList
+c0000000052AF197500000000000000D2
+t1387207029
+s210
+
+N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite3.o
+t1387207032
+s1646272
+
+N/Users/michael/Documents/Programming/Craft/libsqlite.a
+t2
+s0
+
+N/Users/michael/Documents/Programming/Craft/sqlite/shell.c
+c0000000052AF0ED60000000000018449
+t1387204310
+s99401
+
+N/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c
+c0000000052AF0ED600000000004BE527
+t1387204310
+s4973863
+
+N/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.h
+c0000000052AF0ED600000000000551CA
+t1387204310
+s348618
+
+N/Users/michael/Documents/Programming/Craft/sqlite/sqlite3ext.h
+c0000000052AF0ED60000000000006576
+t1387204310
+s25974
+
+N/Users/michael/Documents/Programming/Craft/usr/local/include/sqlite3.h
+t2
+s0
+
+N/Users/michael/Documents/Programming/Craft/usr/local/include/sqlite3ext.h
+t2
+s0
+
+CBuild AST from /Users/michael/Documents/Programming/Craft/sqlite/shell.c
+r0
+
+CBuild AST from /Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7f68d2f5505fb841^9737dbf5505fb841^---0#1#1#--18"Check dependencies36"3AB96913-6768-400E-9F57-FC2B3C96DF2E-
+
+CCompileC Craft.build/Debug/sqlite.build/Objects-normal/x86_64/shell.o /Users/michael/Documents/Programming/Craft/sqlite/shell.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s408899829.857365
+e408899830.051841
+r1
+xCompileC
+xCraft.build/Debug/sqlite.build/Objects-normal/x86_64/shell.o
+x/Users/michael/Documents/Programming/Craft/sqlite/shell.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michael/Documents/Programming/Craft/sqlite/shell.c
+d/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/michael/Documents/Programming/Craft/sqlite/shell.c144"CompileC Craft.build/Debug/sqlite.build/Objects-normal/x86_64/shell.o sqlite/shell.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerd28edbf5505fb841^39470df6505fb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/michael/Documents/Programming/Craft/sqlite/shell.c0000000000000000^2446"CompileC Craft.build/Debug/sqlite.build/Objects-normal/x86_64/shell.o sqlite/shell.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/sqlite-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/sqlite-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/sqlite-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/sqlite-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/Objects-normal/x86_64/shell.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/Objects-normal/x86_64/shell.dia -c /Users/michael/Documents/Programming/Craft/sqlite/shell.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/Objects-normal/x86_64/shell.o36"B9F9CBA8-E28F-4E84-A2E1-8C0B6763992E-
+bF58B6D83-5AFA-4FA2-8B3C-56F27C531842
+
+CCompileC Craft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite3.o /Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s408899829.859833
+e408899832.562162
+r1
+xCompileC
+xCraft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite3.o
+x/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:24352:14: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]
+o    do{ rc = osWrite(fd, "S", 1); }while( rc<0 && errno==EINTR );
+o           ~ ^~~~~~~~~~~~~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:23509:21: note: expanded from macro 'osWrite'
+o#define osWrite     ((ssize_t(*)(int,const void*,size_t))aSyscall[11].pCurrent)
+o                    ^
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:26051:42: warning: implicit conversion loses integer precision: 'unsigned long long' to 'int' [-Wshorten-64-to-32]
+o        int sharedLockByte = SHARED_FIRST+pInode->sharedByte;
+o            ~~~~~~~~~~~~~~   ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:26213:11: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]
+o    got = osRead(id->h, pBuf, cnt);
+o        ~ ^~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:23492:21: note: expanded from macro 'osRead'
+o#define osRead      ((ssize_t(*)(int,void*,size_t))aSyscall[8].pCurrent)
+o                    ^
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:26268:35: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]
+o      int nCopy = pFile->mmapSize - offset;
+o          ~~~~~   ~~~~~~~~~~~~~~~~^~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:26324:10: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]
+o    rc = osWrite(fd, pBuf, nBuf);
+o       ~ ^~~~~~~~~~~~~~~~~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:23509:21: note: expanded from macro 'osWrite'
+o#define osWrite     ((ssize_t(*)(int,const void*,size_t))aSyscall[11].pCurrent)
+o                    ^
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:26402:35: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]
+o      int nCopy = pFile->mmapSize - offset;
+o          ~~~~~   ~~~~~~~~~~~~~~~~^~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:27451:33: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]
+o          for(iPg=(sStat.st_size/pgsz); iPg<(nByte/pgsz); iPg++){
+o                 ~ ~~~~~~~~~~~~~^~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:29103:17: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]
+o      do{ got = osRead(fd, zBuf, nBuf); }while( got<0 && errno==EINTR );
+o              ~ ^~~~~~~~~~~~~~~~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:23492:21: note: expanded from macro 'osRead'
+o#define osRead      ((ssize_t(*)(int,void*,size_t))aSyscall[8].pCurrent)
+o                    ^
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:29412:11: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o    len = strlcat(lPath, "sqliteplocks", maxLen);    
+o        ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+oIn file included from /Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:8085:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/string.h:186:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/secure/_string.h:111:3: note: expanded from macro 'strlcat'
+o  __builtin___strlcat_chk (dest, src, len, __darwin_obsz (dest))
+o  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:29420:11: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o    len = strlcat(lPath, "/", maxLen);
+o        ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+oIn file included from /Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:8085:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/string.h:186:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/secure/_string.h:111:3: note: expanded from macro 'strlcat'
+o  __builtin___strlcat_chk (dest, src, len, __darwin_obsz (dest))
+o  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:29712:19: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]
+o        int len = osPread(conchFile->h, tBuf, PROXY_MAXCONCHLEN, 0);
+o            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:23499:21: note: expanded from macro 'osPread'
+o#define osPread     ((ssize_t(*)(int,void*,size_t,off_t))aSyscall[9].pCurrent)
+o                    ^
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:29873:37: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o        writeSize = PROXY_PATHINDEX + strlen(&writeBuffer[PROXY_PATHINDEX]);
+o                  ~ ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:30087:53: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o    int len = strlen((char *)pFile->lockingContext) - strlen(DOTLOCK_SUFFIX);
+o        ~~~   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~
+o13 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c148"CompileC Craft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite3.o sqlite/sqlite3.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler0dc6dcf5505fb841^024590f8505fb841^-5731"/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:24352:14: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]    do{ rc = osWrite(fd, "S", 1); }while( rc<0 && errno==EINTR );           ~ ^~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:23509:21: note: expanded from macro 'osWrite'#define osWrite     ((ssize_t(*)(int,const void*,size_t))aSyscall[11].pCurrent)                    ^/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:26051:42: warning: implicit conversion loses integer precision: 'unsigned long long' to 'int' [-Wshorten-64-to-32]        int sharedLockByte = SHARED_FIRST+pInode->sharedByte;            ~~~~~~~~~~~~~~   ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:26213:11: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]    got = osRead(id->h, pBuf, cnt);        ~ ^~~~~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:23492:21: note: expanded from macro 'osRead'#define osRead      ((ssize_t(*)(int,void*,size_t))aSyscall[8].pCurrent)                    ^/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:26268:35: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]      int nCopy = pFile->mmapSize - offset;          ~~~~~   ~~~~~~~~~~~~~~~~^~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:26324:10: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]    rc = osWrite(fd, pBuf, nBuf);       ~ ^~~~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:23509:21: note: expanded from macro 'osWrite'#define osWrite     ((ssize_t(*)(int,const void*,size_t))aSyscall[11].pCurrent)                    ^/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:26402:35: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]      int nCopy = pFile->mmapSize - offset;          ~~~~~   ~~~~~~~~~~~~~~~~^~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:27451:33: warning: implicit conversion loses integer precision: 'long long' to 'int' [-Wshorten-64-to-32]          for(iPg=(sStat.st_size/pgsz); iPg<(nByte/pgsz); iPg++){                 ~ ~~~~~~~~~~~~~^~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:29103:17: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]      do{ got = osRead(fd, zBuf, nBuf); }while( got<0 && errno==EINTR );              ~ ^~~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:23492:21: note: expanded from macro 'osRead'#define osRead      ((ssize_t(*)(int,void*,size_t))aSyscall[8].pCurrent)                    ^/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:29412:11: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]    len = strlcat(lPath, "sqliteplocks", maxLen);            ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~In file included from /Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:8085:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/string.h:186:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/secure/_string.h:111:3: note: expanded from macro 'strlcat'  __builtin___strlcat_chk (dest, src, len, __darwin_obsz (dest))  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:29420:11: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]    len = strlcat(lPath, "/", maxLen);        ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~In file included from /Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:8085:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/string.h:186:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/secure/_string.h:111:3: note: expanded from macro 'strlcat'  __builtin___strlcat_chk (dest, src, len, __darwin_obsz (dest))  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:29712:19: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]        int len = osPread(conchFile->h, tBuf, PROXY_MAXCONCHLEN, 0);            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:23499:21: note: expanded from macro 'osPread'#define osPread     ((ssize_t(*)(int,void*,size_t,off_t))aSyscall[9].pCurrent)                    ^/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:29873:37: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]        writeSize = PROXY_PATHINDEX + strlen(&writeBuffer[PROXY_PATHINDEX]);                  ~ ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c:30087:53: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]    int len = strlen((char *)pFile->lockingContext) - strlen(DOTLOCK_SUFFIX);        ~~~   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~13 warnings generated.13(36%IDEClangDiagnosticActivityLogMessage2@76"Implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int'-408899832#18446744073709551615#0#1(2@29"Expanded from macro 'osWrite'-408899832#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^23508#20#23508#20#918107#0#21"Apple LLVM 5.0 Notice2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^24351#13#24351#32#948083#18#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^24351#11#24351#12#948081#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^24351#13#24351#13#948083#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^24351#13#24351#32#948083#18#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^24351#11#24351#12#948081#0#-2@74"Implicit conversion loses integer precision: 'unsigned long long' to 'int'-408899832#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26050#41#26050#41#1002646#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26050#29#26050#60#1002634#21#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26050#12#26050#26#1002617#0#-2@76"Implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int'-408899832#18446744073709551615#0#1(2@28"Expanded from macro 'osRead'-408899832#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^23491#20#23491#20#917472#0#21"Apple LLVM 5.0 Notice2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26212#10#26212#34#1008089#23#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26212#8#26212#9#1008087#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26212#10#26212#10#1008089#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26212#10#26212#34#1008089#23#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26212#8#26212#9#1008087#0#-2@65"Implicit conversion loses integer precision: 'long long' to 'int'-408899832#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26267#34#26267#34#1009545#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26267#18#26267#42#1009529#18#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26267#10#26267#15#1009521#0#-2@76"Implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int'-408899832#18446744073709551615#0#1(2@29"Expanded from macro 'osWrite'-408899832#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^23508#20#23508#20#918107#0#21"Apple LLVM 5.0 Notice2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26323#9#26323#32#1011331#22#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26323#7#26323#8#1011329#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26323#9#26323#9#1011331#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26323#9#26323#32#1011331#22#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26323#7#26323#8#1011329#0#-2@65"Implicit conversion loses integer precision: 'long long' to 'int'-408899832#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26401#34#26401#34#1013644#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26401#18#26401#42#1013628#18#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^26401#10#26401#15#1013620#0#-2@65"Implicit conversion loses integer precision: 'long long' to 'int'-408899832#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^27450#32#27450#32#1050858#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^27450#19#27450#37#1050845#14#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^27450#17#27450#18#1050843#0#-2@76"Implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int'-408899832#18446744073709551615#0#1(2@28"Expanded from macro 'osRead'-408899832#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^23491#20#23491#20#917472#0#21"Apple LLVM 5.0 Notice2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29102#16#29102#38#1107273#21#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29102#14#29102#15#1107271#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29102#16#29102#16#1107273#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29102#16#29102#38#1107273#21#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29102#14#29102#15#1107271#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408899832#18446744073709551615#0#1(2@29"Expanded from macro 'strlcat'-408899832#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@134"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/secure/_string.h0000000000000000^110#2#110#2#3873#0#21"Apple LLVM 5.0 Notice1(3@134"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/secure/_string.h0000000000000000^110#2#110#64#3873#61#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29411#10#29411#10#1119096#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29411#10#29411#48#1119096#37#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29411#8#29411#9#1119094#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408899832#18446744073709551615#0#1(2@29"Expanded from macro 'strlcat'-408899832#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@134"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/secure/_string.h0000000000000000^110#2#110#2#3873#0#21"Apple LLVM 5.0 Notice1(3@134"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/secure/_string.h0000000000000000^110#2#110#64#3873#61#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29419#10#29419#10#1119245#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29419#10#29419#37#1119245#26#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29419#8#29419#9#1119243#0#-2@76"Implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int'-408899832#18446744073709551615#0#1(2@29"Expanded from macro 'osPread'-408899832#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^23498#20#23498#20#917731#0#21"Apple LLVM 5.0 Notice2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29711#18#29711#67#1128320#48#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29711#12#29711#15#1128314#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29711#18#29711#18#1128320#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29711#18#29711#67#1128320#48#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29711#12#29711#15#1128314#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408899832#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29872#36#29872#36#1134299#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29872#20#29872#75#1134283#54#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^29872#18#29872#19#1134281#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408899832#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^30086#52#30086#52#1141787#0#22"Value Conversion Issue2(3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^30086#14#30086#76#1141749#61#3@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^30086#8#30086#11#1141743#0#-0#0#1#-19%DVTDocumentLocation4@66"file:///Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c0000000000000000^2458"CompileC Craft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite3.o sqlite/sqlite3.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/sqlite-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/sqlite-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/sqlite-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/sqlite-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite3.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite3.dia -c /Users/michael/Documents/Programming/Craft/sqlite/sqlite3.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite3.o36"852A7D11-C21B-4A7E-8800-72CCCEF750FD-
+bF58B6D83-5AFA-4FA2-8B3C-56F27C531842
+
+CCpHeader sqlite/sqlite3.h usr/local/include/sqlite3.h
+s408899832.865769
+e408899832.867050
+r1
+xCpHeader
+xsqlite/sqlite3.h
+xusr/local/include/sqlite3.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Copy usr/local/include/sqlite3.h53"CpHeader sqlite/sqlite3.h usr/local/include/sqlite3.hddb4ddf8505fb841^73f7ddf8505fb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/michael/Documents/Programming/Craft/usr/local/include/sqlite3.h0034a093deffdf42^337"CpHeader sqlite/sqlite3.h usr/local/include/sqlite3.h    cd /Users/michael/Documents/Programming/Craft    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/michael/Documents/Programming/Craft/sqlite/sqlite3.h /Users/michael/Documents/Programming/Craft/usr/local/include36"6409667E-75DC-4576-9E4A-BE3E2362C1DA-
+bF58B6D83-5AFA-4FA2-8B3C-56F27C531842
+
+CCpHeader sqlite/sqlite3ext.h usr/local/include/sqlite3ext.h
+s408899832.867192
+e408899832.867902
+r1
+xCpHeader
+xsqlite/sqlite3ext.h
+xusr/local/include/sqlite3ext.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy usr/local/include/sqlite3ext.h59"CpHeader sqlite/sqlite3ext.h usr/local/include/sqlite3ext.hbb09def8505fb841^8c2fdef8505fb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/michael/Documents/Programming/Craft/usr/local/include/sqlite3ext.h0034a093deffdf42^346"CpHeader sqlite/sqlite3ext.h usr/local/include/sqlite3ext.h    cd /Users/michael/Documents/Programming/Craft    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/michael/Documents/Programming/Craft/sqlite/sqlite3ext.h /Users/michael/Documents/Programming/Craft/usr/local/include36"6D81DE2C-FF17-474C-AEA2-08280CD1F995-
+bF58B6D83-5AFA-4FA2-8B3C-56F27C531842
+
+CLibtool /Users/michael/Documents/Programming/Craft/libsqlite.a normal x86_64
+s408899832.847643
+e408899832.864327
+r1
+xLibtool
+x/Users/michael/Documents/Programming/Craft/libsqlite.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Libtool libsqlite.a normal x86_6433"Libtool libsqlite.a normal x86_64b70bd9f8505fb841^8445ddf8505fb841^---0#0#1#--590"Libtool libsqlite.a normal x86_64    cd /Users/michael/Documents/Programming/Craft    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/michael/Documents/Programming/Craft -filelist /Users/michael/Documents/Programming/Craft/Craft.build/Debug/sqlite.build/Objects-normal/x86_64/sqlite.LinkFileList -o /Users/michael/Documents/Programming/Craft/libsqlite.a36"AE226A9D-09B6-4346-9A1A-B8B586B8611A-
+bF58B6D83-5AFA-4FA2-8B3C-56F27C531842
+
