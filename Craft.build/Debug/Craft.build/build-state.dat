@@ -33,15 +33,115 @@ c0000000052677AF400000000002682C8
 t1382513396
 s2523848
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c0000000052677AF30000000000007D5C
+t1382513395
+s32092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c0000000052677AF30000000000020D64
+t1382513395
+s134500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c0000000052677AF3000000000001B3B8
+t1382513395
+s111544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c0000000052677AF30000000000034F94
+t1382513395
+s216980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c0000000052677AF3000000000000CB08
+t1382513395
+s51976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c0000000052677AF3000000000002C5F4
+t1382513395
+s181748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c0000000052677AF3000000000002B9A8
+t1382513395
+s178600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c0000000052677AF30000000000011EF8
+t1382513395
+s73464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052677AF40000000000059898
+t1382513396
+s366744
+
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
 c0000000052677AF4000000000000253C
 t1382513396
 s9532
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000052677AF4000000000004C7C4
+t1382513396
+s313284
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052677AF40000000000085C78
+t1382513396
+s547960
+
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 c0000000052677AF5000000000008B2C4
 t1382513397
 s570052
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c0000000052677AF6000000000000979C
+t1382513398
+s38812
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c0000000052677AF600000000000223B4
+t1382513398
+s140212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c0000000052677AF60000000000071A98
+t1382513398
+s465560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c0000000052677AF60000000000017E1C
+t1382513398
+s97820
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c0000000052677AF6000000000004F094
+t1382513398
+s323732
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c0000000052677AF6000000000003AA44
+t1382513398
+s240196
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c0000000052677AF600000000000383CC
+t1382513398
+s230348
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c0000000052677AF6000000000001B66C
+t1382513398
+s112236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052677AF60000000000030444
+t1382513398
+s197700
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 c0000000052677AF600000000000C9E68
@@ -53,54 +153,234 @@ c0000000052677AF60000000000044270
 t1382513398
 s279152
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c0000000052677AF600000000000394F8
+t1382513398
+s234744
+
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
 c0000000052677AF8000000000000BB7C
 t1382513400
 s47996
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c0000000052677AF800000000000211A0
+t1382513400
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c0000000052677AF80000000000005F00
+t1382513400
+s24320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c0000000052677AFE000000000000681C
+t1382513406
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
+c0000000052677AFE0000000000014EF8
+t1382513406
+s85752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c0000000052677AFE0000000000004734
+t1382513406
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052677AFE000000000000FC6C
+t1382513406
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052677AFF000000000000F6A0
+t1382513407
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c0000000052677AFE0000000000006254
+t1382513406
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052677AFF000000000000E0F8
+t1382513407
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c0000000052677AFE000000000000D6DC
+t1382513406
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c0000000052677AFF0000000000006308
+t1382513407
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c0000000052677AFF0000000000004050
+t1382513407
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c0000000052677AFF0000000000008570
+t1382513407
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c0000000052677AFF0000000000005EA0
+t1382513407
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c0000000052677AFF0000000000005FAC
+t1382513407
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c0000000052677AFF0000000000004440
+t1382513407
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052677AFF000000000000AA28
+t1382513407
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c0000000052677AFF0000000000003E2C
+t1382513407
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c0000000052677AFF0000000000030A24
+t1382513407
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c0000000052677AFF0000000000005E54
+t1382513407
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c0000000052677AFF0000000000006A90
+t1382513407
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052677AFF00000000000178AC
+t1382513407
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000052677AFF000000000001ADC8
+t1382513407
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052677AFF000000000001028C
+t1382513407
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c0000000052677AFF0000000000008800
+t1382513407
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052677AFF0000000000011090
+t1382513407
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052677AFF000000000000882C
+t1382513407
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c0000000052677AFF00000000000067AC
+t1382513407
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000052677AFF0000000000008DEC
+t1382513407
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c0000000052677AFF0000000000004C08
+t1382513407
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c0000000052677AFF00000000000023C0
+t1382513407
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c0000000052677AFF000000000000439C
+t1382513407
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c0000000052677AFF0000000000006768
+t1382513407
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c0000000052677AFF00000000000172F4
+t1382513407
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c0000000052677B1E0000000000001750
+t1382513438
+s5968
+
 N/Users/michael/Documents/Programming/Craft/Craft
-t2
-s0
+t1387211202
+s1256056
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/Craft.LinkFileList
-c0000000052AF19790000000000000399
-t1387207033
+c0000000052AF27B50000000000000399
+t1387210677
 s921
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.o
-t1387207033
+t1387210677
 s16108
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.o
-t1387207033
+t1387210677
 s30964
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.o
-t1387207033
+t1387210677
 s13868
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.o
-t1387207033
-s60020
+t1387211278
+s59972
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.o
-t1387207033
+t1387210677
 s6368
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.o
-t1387207033
+t1387210677
 s13512
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.o
-t1387207033
+t1387210677
 s9444
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.o
-t1387207033
+t1387210677
 s12556
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.o
-t1387207033
+t1387211278
 s6240
 
 N/Users/michael/Documents/Programming/Craft/client.c
@@ -108,65 +388,130 @@ c0000000052AF0ED600000000000010EC
 t1387204310
 s4332
 
+N/Users/michael/Documents/Programming/Craft/client.h
+c0000000052AF0ED600000000000001EC
+t1387204310
+s492
+
+N/Users/michael/Documents/Programming/Craft/config.h
+c0000000052AF2A0900000000000003B6
+t1387211273
+s950
+
 N/Users/michael/Documents/Programming/Craft/cube.c
 c0000000052AF0ED60000000000003805
 t1387204310
 s14341
+
+N/Users/michael/Documents/Programming/Craft/cube.h
+c0000000052AF0ED6000000000000039B
+t1387204310
+s923
 
 N/Users/michael/Documents/Programming/Craft/db.c
 c0000000052AF0ED6000000000000172B
 t1387204310
 s5931
 
+N/Users/michael/Documents/Programming/Craft/db.h
+c0000000052AF0ED60000000000000225
+t1387204310
+s549
+
+N/Users/michael/Documents/Programming/Craft/glfw/deps/tinycthread.h
+c0000000052AE369E0000000000003CDB
+t1387148958
+s15579
+
+N/Users/michael/Documents/Programming/Craft/glfw/include/GLFW/glfw3.h
+c0000000052AE369E00000000000139F4
+t1387148958
+s80372
+
 N/Users/michael/Documents/Programming/Craft/libglfw.a
-c0000000052AF1979000000000005B128
-t1387207033
+c0000000052AF27B5000000000005B128
+t1387210677
 s373032
 
 N/Users/michael/Documents/Programming/Craft/liblodepng.a
-c0000000052AF1976000000000002FF58
-t1387207030
+c0000000052AF27B3000000000002FF58
+t1387210675
 s196440
 
 N/Users/michael/Documents/Programming/Craft/libsqlite.a
-c0000000052AF197800000000001AE790
-t1387207032
+c0000000052AF27B500000000001AE790
+t1387210677
 s1763216
 
 N/Users/michael/Documents/Programming/Craft/libtinycthread.a
-c0000000052AF197500000000000043E8
-t1387207029
+c0000000052AF27B200000000000043E8
+t1387210674
 s17384
 
-N/Users/michael/Documents/Programming/Craft/main.c
-c0000000052AF0ED60000000000009CC1
+N/Users/michael/Documents/Programming/Craft/lodepng/lodepng.h
+c0000000052AF0ED60000000000013591
 t1387204310
-s40129
+s79249
+
+N/Users/michael/Documents/Programming/Craft/main.c
+c0000000052AF29C10000000000009CC2
+t1387211201
+s40130
 
 N/Users/michael/Documents/Programming/Craft/map.c
 c0000000052AF0ED600000000000007CC
 t1387204310
 s1996
 
+N/Users/michael/Documents/Programming/Craft/map.h
+c0000000052AF0ED6000000000000029B
+t1387204310
+s667
+
 N/Users/michael/Documents/Programming/Craft/matrix.c
 c0000000052AF0ED600000000000016AD
 t1387204310
 s5805
+
+N/Users/michael/Documents/Programming/Craft/matrix.h
+c0000000052AF0ED600000000000003F2
+t1387204310
+s1010
 
 N/Users/michael/Documents/Programming/Craft/noise.c
 c0000000052AF0ED6000000000000207E
 t1387204310
 s8318
 
+N/Users/michael/Documents/Programming/Craft/noise.h
+c0000000052AF0ED6000000000000056E
+t1387204310
+s1390
+
+N/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.h
+c0000000052AF0ED600000000000551CA
+t1387204310
+s348618
+
 N/Users/michael/Documents/Programming/Craft/util.c
 c0000000052AF0ED60000000000001244
 t1387204310
 s4676
 
+N/Users/michael/Documents/Programming/Craft/util.h
+c0000000052AF0ED60000000000000486
+t1387204310
+s1158
+
 N/Users/michael/Documents/Programming/Craft/world.c
 c0000000052AF0ED60000000000000A21
 t1387204310
 s2593
+
+N/Users/michael/Documents/Programming/Craft/world.h
+c0000000052AF0ED6000000000000006A
+t1387204310
+s106
 
 CBuild AST from /Users/michael/Documents/Programming/Craft/client.c
 r0
@@ -197,11 +542,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies33a822f9505fb841^0ef523f9505fb841^---0#1#1#--18"Check dependencies36"1B5EEC70-AAAA-4DB9-84E7-04E9A6BD4304-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9983fc8d615fb841^8ba5fc8d615fb841^---0#1#1#--18"Check dependencies36"05DAC335-B4E3-4E1F-B1B9-2239A2B35D60-
 
 CCompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.o /Users/michael/Documents/Programming/Craft/client.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s408899833.141315
-e408899833.221662
+s408903477.576434
+e408903477.689276
 r1
 xCompileC
 xCraft.build/Debug/Craft.build/Objects-normal/x86_64/client.o
@@ -220,12 +565,12 @@ o/Users/michael/Documents/Programming/Craft/client.c:50:34: warning: implicit co
 o    if (client_sendall(sd, data, strlen(data)) == -1) {
 o        ~~~~~~~~~~~~~~           ^~~~~~~~~~~~
 o2 warnings generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/michael/Documents/Programming/Craft/client.c138"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.o client.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler914724f9505fb841^0ebe38f9505fb841^-550"/Users/michael/Documents/Programming/Craft/client.c:36:17: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]        int n = send(sd, data + count, length, 0);            ~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/client.c:50:34: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]    if (client_sendall(sd, data, strlen(data)) == -1) {        ~~~~~~~~~~~~~~           ^~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@76"Implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int'-408899833#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^35#16#35#16#662#0#22"Value Conversion Issue2(3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^35#16#35#49#662#32#3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^35#12#35#13#658#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408899833#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^49#33#49#33#930#0#22"Value Conversion Issue2(3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^49#33#49#45#930#11#3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^49#8#49#22#905#0#-0#0#1#-19%DVTDocumentLocation4@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^2422"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.o client.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.dia -c /Users/michael/Documents/Programming/Craft/client.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.o36"DF32E7A2-9B81-4E88-A560-5D867BF7C681-
-bD8D4BB41-C920-4CC8-B1DB-EC255E680FFC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/michael/Documents/Programming/Craft/client.c138"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.o client.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler38a293355f5fb841^d448bb355f5fb841^-550"/Users/michael/Documents/Programming/Craft/client.c:36:17: warning: implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int' [-Wshorten-64-to-32]        int n = send(sd, data + count, length, 0);            ~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/client.c:50:34: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]    if (client_sendall(sd, data, strlen(data)) == -1) {        ~~~~~~~~~~~~~~           ^~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@76"Implicit conversion loses integer precision: 'ssize_t' (aka 'long') to 'int'-408903477#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^35#16#35#16#662#0#22"Value Conversion Issue2(3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^35#16#35#49#662#32#3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^35#12#35#13#658#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408903477#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^49#33#49#33#930#0#22"Value Conversion Issue2(3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^49#33#49#45#930#11#3@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^49#8#49#22#905#0#-0#0#1#-19%DVTDocumentLocation4@58"file:///Users/michael/Documents/Programming/Craft/client.c0000000000000000^2422"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.o client.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.dia -c /Users/michael/Documents/Programming/Craft/client.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/client.o36"62FD0426-972A-47B4-B36B-F8AD2F18D558-
+b984C32D2-4D76-43E4-B075-083548AF2D5E
 
 CCompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.o /Users/michael/Documents/Programming/Craft/cube.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s408899833.142794
-e408899833.213973
+s408903477.575919
+e408903477.667473
 r1
 xCompileC
 xCraft.build/Debug/Craft.build/Objects-normal/x86_64/cube.o
@@ -239,12 +584,12 @@ d/Users/michael/Documents/Programming/Craft/cube.h
 d/Users/michael/Documents/Programming/Craft/matrix.h
 d/Users/michael/Documents/Programming/Craft/util.h
 d/Users/michael/Documents/Programming/Craft/glfw/include/GLFW/glfw3.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/michael/Documents/Programming/Craft/cube.c134"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.o cube.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler58fe24f9505fb841^eb3b37f9505fb841^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/michael/Documents/Programming/Craft/cube.c0000000000000000^2410"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.o cube.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.dia -c /Users/michael/Documents/Programming/Craft/cube.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.o36"80E3E00F-113C-49E0-86F5-7F61157667F9-
-bD8D4BB41-C920-4CC8-B1DB-EC255E680FFC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/michael/Documents/Programming/Craft/cube.c134"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.o cube.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler348093355f5fb841^5ce4aa355f5fb841^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/michael/Documents/Programming/Craft/cube.c0000000000000000^2410"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.o cube.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.dia -c /Users/michael/Documents/Programming/Craft/cube.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/cube.o36"81717D6D-963B-4146-B445-8B523B97965E-
+b984C32D2-4D76-43E4-B075-083548AF2D5E
 
 CCompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.o /Users/michael/Documents/Programming/Craft/db.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s408899833.143755
-e408899833.188266
+s408903477.577705
+e408903477.616886
 r1
 xCompileC
 xCraft.build/Debug/Craft.build/Objects-normal/x86_64/db.o
@@ -257,12 +602,12 @@ d/Users/michael/Documents/Programming/Craft/db.c
 d/Users/michael/Documents/Programming/Craft/db.h
 d/Users/michael/Documents/Programming/Craft/map.h
 d/Users/michael/Documents/Programming/Craft/sqlite/sqlite3.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/michael/Documents/Programming/Craft/db.c130"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.o db.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler33e024f9505fb841^983230f9505fb841^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/michael/Documents/Programming/Craft/db.c0000000000000000^2398"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.o db.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.dia -c /Users/michael/Documents/Programming/Craft/db.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.o36"9AA1C3B7-69F8-45BE-9B12-B0F73EDEB44A-
-bD8D4BB41-C920-4CC8-B1DB-EC255E680FFC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/michael/Documents/Programming/Craft/db.c130"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.o db.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler0af693355f5fb841^1efb9d355f5fb841^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/michael/Documents/Programming/Craft/db.c0000000000000000^2398"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.o db.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.dia -c /Users/michael/Documents/Programming/Craft/db.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/db.o36"D20AAC73-3448-434A-8474-3D09F1B5831F-
+b984C32D2-4D76-43E4-B075-083548AF2D5E
 
 CCompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.o /Users/michael/Documents/Programming/Craft/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s408899833.141020
-e408899833.310668
+s408904077.987427
+e408904078.077746
 r1
 xCompileC
 xCraft.build/Debug/Craft.build/Objects-normal/x86_64/main.o
@@ -298,12 +643,12 @@ o/Users/michael/Documents/Programming/Craft/main.c:868:11: warning: implicit con
 o    srand(time(NULL));
 o    ~~~~~ ^~~~~~~~~~
 o5 warnings generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/michael/Documents/Programming/Craft/main.c134"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.o main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler3b3824f9505fb841^4a2855f9505fb841^-1190"/Users/michael/Documents/Programming/Craft/main.c:197:18: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]    int length = strlen(text);        ~~~~~~   ^~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/main.c:316:31: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]        position_loc, uv_loc, strlen(text));                              ^~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/main.c:758:21: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]            int n = strlen(typing_buffer);                ~   ^~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/main.c:784:21: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]            int n = strlen(typing_buffer);                ~   ^~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/main.c:868:11: warning: implicit conversion loses integer precision: 'time_t' (aka 'long') to 'unsigned int' [-Wshorten-64-to-32]    srand(time(NULL));    ~~~~~ ^~~~~~~~~~5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408899833#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^196#17#196#17#4626#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^196#17#196#29#4626#11#3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^196#8#196#14#4617#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408899833#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^315#30#315#30#8838#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^315#30#315#42#8838#11#3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^313#4#313#13#8761#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408899833#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^757#20#757#20#21200#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^757#20#757#41#21200#20#3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^757#16#757#17#21196#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408899833#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^783#20#783#20#21846#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^783#20#783#41#21846#20#3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^783#16#783#17#21842#0#-2@84"Implicit conversion loses integer precision: 'time_t' (aka 'long') to 'unsigned int'-408899833#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^867#10#867#10#23943#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^867#10#867#20#23943#9#3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^867#4#867#9#23937#0#-0#0#1#-19%DVTDocumentLocation4@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^2410"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.o main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.dia -c /Users/michael/Documents/Programming/Craft/main.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.o36"5DA19435-EA40-4E65-97FE-BE4AB5771D35-
-bD8D4BB41-C920-4CC8-B1DB-EC255E680FFC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/michael/Documents/Programming/Craft/main.c134"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.o main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler23dcfc8d615fb841^c5e6138e615fb841^-1190"/Users/michael/Documents/Programming/Craft/main.c:197:18: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]    int length = strlen(text);        ~~~~~~   ^~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/main.c:316:31: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]        position_loc, uv_loc, strlen(text));                              ^~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/main.c:758:21: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]            int n = strlen(typing_buffer);                ~   ^~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/main.c:784:21: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]            int n = strlen(typing_buffer);                ~   ^~~~~~~~~~~~~~~~~~~~~/Users/michael/Documents/Programming/Craft/main.c:868:11: warning: implicit conversion loses integer precision: 'time_t' (aka 'long') to 'unsigned int' [-Wshorten-64-to-32]    srand(time(NULL));    ~~~~~ ^~~~~~~~~~5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408904078#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^196#17#196#17#4628#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^196#17#196#29#4628#11#3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^196#8#196#14#4619#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408904078#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^315#30#315#30#8840#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^315#30#315#42#8840#11#3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^313#4#313#13#8763#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408904078#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^757#20#757#20#21202#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^757#20#757#41#21202#20#3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^757#16#757#17#21198#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-408904078#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^783#20#783#20#21848#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^783#20#783#41#21848#20#3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^783#16#783#17#21844#0#-2@84"Implicit conversion loses integer precision: 'time_t' (aka 'long') to 'unsigned int'-408904078#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^867#10#867#10#23945#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^867#10#867#20#23945#9#3@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^867#4#867#9#23939#0#-0#0#1#-19%DVTDocumentLocation4@56"file:///Users/michael/Documents/Programming/Craft/main.c0000000000000000^2410"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.o main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.dia -c /Users/michael/Documents/Programming/Craft/main.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/main.o36"14758C95-9969-4659-A8DE-A5E4F1CB1D3F-
+b54E7D0AD-8B70-4766-BB52-4C44EBEE5366
 
 CCompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.o /Users/michael/Documents/Programming/Craft/map.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s408899833.189512
-e408899833.221963
+s408903477.617121
+e408903477.674362
 r1
 xCompileC
 xCraft.build/Debug/Craft.build/Objects-normal/x86_64/map.o
@@ -314,12 +659,12 @@ xc
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/michael/Documents/Programming/Craft/map.c
 d/Users/michael/Documents/Programming/Craft/map.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/michael/Documents/Programming/Craft/map.c132"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.o map.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler709830f9505fb841^740b39f9505fb841^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/michael/Documents/Programming/Craft/map.c0000000000000000^2404"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.o map.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.dia -c /Users/michael/Documents/Programming/Craft/map.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.o36"80BC554A-B30F-4062-A12B-B2C5011932B0-
-bD8D4BB41-C920-4CC8-B1DB-EC255E680FFC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/michael/Documents/Programming/Craft/map.c132"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.o map.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler6f0f9e355f5fb841^8c9dac355f5fb841^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/michael/Documents/Programming/Craft/map.c0000000000000000^2404"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.o map.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.dia -c /Users/michael/Documents/Programming/Craft/map.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/map.o36"0DC88AA9-3AC4-4CB6-9CAA-EA2915227C46-
+b984C32D2-4D76-43E4-B075-083548AF2D5E
 
 CCompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.o /Users/michael/Documents/Programming/Craft/matrix.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s408899833.215259
-e408899833.273074
+s408903477.668021
+e408903477.716754
 r1
 xCompileC
 xCraft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.o
@@ -332,12 +677,12 @@ d/Users/michael/Documents/Programming/Craft/matrix.c
 d/Users/michael/Documents/Programming/Craft/matrix.h
 d/Users/michael/Documents/Programming/Craft/util.h
 d/Users/michael/Documents/Programming/Craft/glfw/include/GLFW/glfw3.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/michael/Documents/Programming/Craft/matrix.c138"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.o matrix.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler8c2e37f9505fb841^5c3d47f9505fb841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/michael/Documents/Programming/Craft/matrix.c0000000000000000^2422"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.o matrix.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.dia -c /Users/michael/Documents/Programming/Craft/matrix.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.o36"FECC2E41-1F7C-41A1-ADEE-9A947EE4A0BC-
-bD8D4BB41-C920-4CC8-B1DB-EC255E680FFC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/michael/Documents/Programming/Craft/matrix.c138"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.o matrix.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler5d16ab355f5fb841^c24cbb355f5fb841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/michael/Documents/Programming/Craft/matrix.c0000000000000000^2422"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.o matrix.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.dia -c /Users/michael/Documents/Programming/Craft/matrix.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/matrix.o36"EB44546E-EBA6-4271-9099-6C833FF03A05-
+b984C32D2-4D76-43E4-B075-083548AF2D5E
 
 CCompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.o /Users/michael/Documents/Programming/Craft/noise.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s408899833.221926
-e408899833.259520
+s408903477.674600
+e408903477.717133
 r1
 xCompileC
 xCraft.build/Debug/Craft.build/Objects-normal/x86_64/noise.o
@@ -347,12 +692,12 @@ xx86_64
 xc
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/michael/Documents/Programming/Craft/noise.c
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/michael/Documents/Programming/Craft/noise.c136"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.o noise.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler47e338f9505fb841^23a343f9505fb841^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/michael/Documents/Programming/Craft/noise.c0000000000000000^2416"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.o noise.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.dia -c /Users/michael/Documents/Programming/Craft/noise.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.o36"DF25EEA4-A409-478A-9609-5A92191A77C8-
-bD8D4BB41-C920-4CC8-B1DB-EC255E680FFC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/michael/Documents/Programming/Craft/noise.c136"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.o noise.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler9bc8ac355f5fb841^ca4ebb355f5fb841^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/michael/Documents/Programming/Craft/noise.c0000000000000000^2416"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.o noise.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.dia -c /Users/michael/Documents/Programming/Craft/noise.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/noise.o36"A362FEDF-4BED-4DEE-AEC2-3F84611131EB-
+b984C32D2-4D76-43E4-B075-083548AF2D5E
 
 CCompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.o /Users/michael/Documents/Programming/Craft/util.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s408899833.224243
-e408899833.287516
+s408903477.677158
+e408903477.734093
 r1
 xCompileC
 xCraft.build/Debug/Craft.build/Objects-normal/x86_64/util.o
@@ -370,12 +715,12 @@ o/Users/michael/Documents/Programming/Craft/util.c:35:18: warning: implicit conv
 o    int length = ftell(file);
 o        ~~~~~~   ^~~~~~~~~~~
 o1 warning generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/michael/Documents/Programming/Craft/util.c134"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.o util.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler787a39f9505fb841^d49b49f9505fb841^-228"/Users/michael/Documents/Programming/Craft/util.c:35:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]    int length = ftell(file);        ~~~~~~   ^~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@60"Implicit conversion loses integer precision: 'long' to 'int'-408899833#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@56"file:///Users/michael/Documents/Programming/Craft/util.c0000000000000000^34#17#34#17#743#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/util.c0000000000000000^34#17#34#28#743#10#3@56"file:///Users/michael/Documents/Programming/Craft/util.c0000000000000000^34#8#34#14#734#0#-0#0#1#-19%DVTDocumentLocation4@56"file:///Users/michael/Documents/Programming/Craft/util.c0000000000000000^2410"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.o util.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.dia -c /Users/michael/Documents/Programming/Craft/util.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.o36"95AECC84-CF74-4A1E-97DE-D697E5C85936-
-bD8D4BB41-C920-4CC8-B1DB-EC255E680FFC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/michael/Documents/Programming/Craft/util.c134"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.o util.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler4e80ad355f5fb841^31edbb355f5fb841^-228"/Users/michael/Documents/Programming/Craft/util.c:35:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]    int length = ftell(file);        ~~~~~~   ^~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@60"Implicit conversion loses integer precision: 'long' to 'int'-408903477#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@56"file:///Users/michael/Documents/Programming/Craft/util.c0000000000000000^34#17#34#17#743#0#22"Value Conversion Issue2(3@56"file:///Users/michael/Documents/Programming/Craft/util.c0000000000000000^34#17#34#28#743#10#3@56"file:///Users/michael/Documents/Programming/Craft/util.c0000000000000000^34#8#34#14#734#0#-0#0#1#-19%DVTDocumentLocation4@56"file:///Users/michael/Documents/Programming/Craft/util.c0000000000000000^2410"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.o util.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.dia -c /Users/michael/Documents/Programming/Craft/util.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/util.o36"59E87237-91DF-4654-AEDC-B8413408BC44-
+b984C32D2-4D76-43E4-B075-083548AF2D5E
 
 CCompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.o /Users/michael/Documents/Programming/Craft/world.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s408899833.260734
-e408899833.287099
+s408904077.988255
+e408904078.007192
 r1
 xCompileC
 xCraft.build/Debug/Craft.build/Objects-normal/x86_64/world.o
@@ -389,12 +734,12 @@ d/Users/michael/Documents/Programming/Craft/config.h
 d/Users/michael/Documents/Programming/Craft/noise.h
 d/Users/michael/Documents/Programming/Craft/world.h
 d/Users/michael/Documents/Programming/Craft/map.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/michael/Documents/Programming/Craft/world.c136"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.o world.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler89d242f9505fb841^ac3c49f9505fb841^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/michael/Documents/Programming/Craft/world.c0000000000000000^2416"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.o world.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.dia -c /Users/michael/Documents/Programming/Craft/world.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.o36"AFAA2212-A2DB-4CE2-8C6B-E9B43102850F-
-bD8D4BB41-C920-4CC8-B1DB-EC255E680FFC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/michael/Documents/Programming/Craft/world.c136"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.o world.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler950ffd8d615fb841^fdc0058e615fb841^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/michael/Documents/Programming/Craft/world.c0000000000000000^2416"CompileC Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.o world.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Craft-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.dia -c /Users/michael/Documents/Programming/Craft/world.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/world.o36"F7B47305-6989-4DC5-A45E-AD3E62F8EAFF-
+b54E7D0AD-8B70-4766-BB52-4C44EBEE5366
 
 CLd /Users/michael/Documents/Programming/Craft/Craft normal x86_64
-s408899833.312958
-e408899833.651959
+s408904078.080249
+e408904078.148170
 r1
 xLd
 x/Users/michael/Documents/Programming/Craft/Craft
@@ -423,11 +768,6 @@ d/Users/michael/Documents/Programming/Craft/libtinycthread.a
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
@@ -458,6 +798,11 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
@@ -476,6 +821,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Link /Users/michael/Documents/Programming/Craft/Craft22"Ld Craft normal x86_64eb7050f9505fb841^d4efa6f9505fb841^---0#0#1#--937"Ld Craft normal x86_64    cd /Users/michael/Documents/Programming/Craft    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/michael/Documents/Programming/Craft -F/Users/michael/Documents/Programming/Craft -filelist /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/Craft.LinkFileList -mmacosx-version-min=10.9 -framework Foundation -framework AppKit -framework CoreGraphics -framework IOKit -framework Cocoa -framework OpenGL -lglfw -llodepng -lsqlite -ltinycthread -Xlinker -dependency_info -Xlinker /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/Craft_dependency_info.dat -o /Users/michael/Documents/Programming/Craft/Craft36"C23837E6-12C6-4625-A8F6-FDE103832703-
-bD8D4BB41-C920-4CC8-B1DB-EC255E680FFC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Link /Users/michael/Documents/Programming/Craft/Craft22"Ld Craft normal x86_64469a148e615fb841^63ef258e615fb841^---0#0#1#--937"Ld Craft normal x86_64    cd /Users/michael/Documents/Programming/Craft    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/michael/Documents/Programming/Craft -F/Users/michael/Documents/Programming/Craft -filelist /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/Craft.LinkFileList -mmacosx-version-min=10.9 -framework Foundation -framework AppKit -framework CoreGraphics -framework IOKit -framework Cocoa -framework OpenGL -lglfw -llodepng -lsqlite -ltinycthread -Xlinker -dependency_info -Xlinker /Users/michael/Documents/Programming/Craft/Craft.build/Debug/Craft.build/Objects-normal/x86_64/Craft_dependency_info.dat -o /Users/michael/Documents/Programming/Craft/Craft36"192B10A9-99D0-4397-82B5-9606D7BFBF2D-
+b54E7D0AD-8B70-4766-BB52-4C44EBEE5366
 

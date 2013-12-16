@@ -22,17 +22,17 @@ t1382513395
 s475
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.LinkFileList
-c0000000052AF19750000000000000073
-t1387207029
+c0000000052AF27B10000000000000073
+t1387210673
 s115
 
 N/Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.o
-t1387207029
+t1387210674
 s16696
 
 N/Users/michael/Documents/Programming/Craft/libtinycthread.a
-t2
-s0
+t1387210674
+s17384
 
 N/Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c
 c0000000052AF0ED600000000000032DD
@@ -45,19 +45,19 @@ t1387204310
 s15579
 
 N/Users/michael/Documents/Programming/Craft/usr/local/include/tinycthread.h
-t2
-s0
+t1387210674
+s15579
 
 CBuild AST from /Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c
 r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1669d2f5505fb841^eee9d6f5505fb841^---0#1#1#--18"Check dependencies36"AA4DDD5A-DF6F-44E3-9BE3-375A6B2FEC6E-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies137dfa8d615fb841^77dafa8d615fb841^---0#1#1#--18"Check dependencies36"0E4CFD77-A906-4A7C-96A3-6626F17E8425-
 
 CCompileC Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.o /Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s408899829.840480
-e408899829.891422
+s408903473.977636
+e408903474.166162
 r1
 xCompileC
 xCraft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.o
@@ -68,27 +68,27 @@ xc
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c
 d/Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c166"CompileC Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.o tinycthread/tinycthread.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerc348d7f5505fb841^5d34e4f5505fb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c0000000000000000^2562"CompileC Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.o tinycthread/tinycthread.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/tinycthread-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/tinycthread-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/tinycthread-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/tinycthread-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.dia -c /Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.o36"629E057F-9832-4940-BAA5-48FEA7936207-
-bB230316C-0A10-4C6B-8748-C6E4072A2A76
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c166"CompileC Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.o tinycthread/tinycthread.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler075dfa315f5fb841^fc892a325f5fb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c0000000000000000^2562"CompileC Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.o tinycthread/tinycthread.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/Documents/Programming/Craft    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/tinycthread-generated-files.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/tinycthread-own-target-headers.hmap -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/tinycthread-all-target-headers.hmap -iquote /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/tinycthread-project-headers.hmap -I/Users/michael/Documents/Programming/Craft/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/DerivedSources/x86_64 -I/Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/DerivedSources -F/Users/michael/Documents/Programming/Craft -MMD -MT dependencies -MF /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.d --serialize-diagnostics /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.dia -c /Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c -o /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.o36"8AACECAA-58F0-4AEC-A54A-BB464E0F28A7-
+bC2412A45-6E9C-47B9-89AB-CCAD3119D510
 
 CCpHeader tinycthread/tinycthread.h usr/local/include/tinycthread.h
-s408899829.926902
-e408899829.927847
+s408903474.228714
+e408903474.229676
 r1
 xCpHeader
 xtinycthread/tinycthread.h
 xusr/local/include/tinycthread.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy usr/local/include/tinycthread.h66"CpHeader tinycthread/tinycthread.h usr/local/include/tinycthread.hda54edf5505fb841^bb99edf5505fb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/michael/Documents/Programming/Craft/usr/local/include/tinycthread.h0034a093deffdf42^359"CpHeader tinycthread/tinycthread.h usr/local/include/tinycthread.h    cd /Users/michael/Documents/Programming/Craft    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.h /Users/michael/Documents/Programming/Craft/usr/local/include36"3D278389-D9B9-4850-B761-D59545FEEAE1-
-bB230316C-0A10-4C6B-8748-C6E4072A2A76
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy usr/local/include/tinycthread.h66"CpHeader tinycthread/tinycthread.h usr/local/include/tinycthread.hbf9b3a325f5fb841^d5cc3a325f5fb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/michael/Documents/Programming/Craft/usr/local/include/tinycthread.h0034a093deffdf42^359"CpHeader tinycthread/tinycthread.h usr/local/include/tinycthread.h    cd /Users/michael/Documents/Programming/Craft    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.h /Users/michael/Documents/Programming/Craft/usr/local/include36"3233AF58-19E7-4BB8-83CF-01B3825BC73B-
+bC2412A45-6E9C-47B9-89AB-CCAD3119D510
 
 CLibtool /Users/michael/Documents/Programming/Craft/libtinycthread.a normal x86_64
-s408899829.891940
-e408899829.926418
+s408903474.166707
+e408903474.228171
 r1
 xLibtool
 x/Users/michael/Documents/Programming/Craft/libtinycthread.a
 xnormal
 xx86_64
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Libtool libtinycthread.a normal x86_6438"Libtool libtinycthread.a normal x86_643963e4f5505fb841^1937edf5505fb841^---0#0#1#--610"Libtool libtinycthread.a normal x86_64    cd /Users/michael/Documents/Programming/Craft    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/michael/Documents/Programming/Craft -filelist /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.LinkFileList -o /Users/michael/Documents/Programming/Craft/libtinycthread.a36"5D65D19D-5CF1-4916-BD4D-8939A2F7C8FC-
-bB230316C-0A10-4C6B-8748-C6E4072A2A76
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Libtool libtinycthread.a normal x86_6438"Libtool libtinycthread.a normal x86_64fdbb2a325f5fb841^71733a325f5fb841^---0#0#1#--610"Libtool libtinycthread.a normal x86_64    cd /Users/michael/Documents/Programming/Craft    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/michael/Documents/Programming/Craft -filelist /Users/michael/Documents/Programming/Craft/Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.LinkFileList -o /Users/michael/Documents/Programming/Craft/libtinycthread.a36"6B0C7CA4-A14B-40F2-B1AE-DCDA54A78519-
+bC2412A45-6E9C-47B9-89AB-CCAD3119D510
 

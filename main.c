@@ -20,8 +20,8 @@
 
 #define MAX_CHUNKS 1024
 #define MAX_PLAYERS 128
-#define CREATE_CHUNK_RADIUS 6
-#define RENDER_CHUNK_RADIUS 6
+#define CREATE_CHUNK_RADIUS 50
+#define RENDER_CHUNK_RADIUS 50
 #define DELETE_CHUNK_RADIUS 12
 #define RECV_BUFFER_SIZE 1024
 #define TEXT_BUFFER_SIZE 256
@@ -35,7 +35,7 @@ static int teleport = 0;
 static int flying = 0;
 static int block_type = 1;
 static int ortho = 0;
-static float fov = 65.0;
+static float fov = 85.0;
 static int typing = 0;
 static char typing_buffer[TEXT_BUFFER_SIZE] = {0};
 
@@ -1031,7 +1031,7 @@ int main(int argc, char **argv) {
         if (!typing) {
             float m = dt * 1.0;
             ortho = glfwGetKey(window, CRAFT_KEY_ORTHO);
-            fov = glfwGetKey(window, CRAFT_KEY_ZOOM) ? 15.0 : 65.0;
+            fov = glfwGetKey(window, CRAFT_KEY_ZOOM) ? 15.0 : fov;
             if (glfwGetKey(window, CRAFT_KEY_QUIT)) break;
             if (glfwGetKey(window, CRAFT_KEY_FORWARD)) sz--;
             if (glfwGetKey(window, CRAFT_KEY_BACKWARD)) sz++;
