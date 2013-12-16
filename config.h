@@ -11,6 +11,7 @@
 #define MAX_MESSAGES 4
 #define DB_PATH "craft.db"
 #define USE_CACHE 1
+#define DEFAULT_FOV 85.0
 
 // key bindings
 #define CRAFT_KEY_QUIT 'Q'

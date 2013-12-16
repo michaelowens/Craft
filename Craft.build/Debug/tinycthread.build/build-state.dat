@@ -53,7 +53,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies137dfa8d615fb841^77dafa8d615fb841^---0#1#1#--18"Check dependencies36"0E4CFD77-A906-4A7C-96A3-6626F17E8425-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6cb3c923645fb841^7444ca23645fb841^---0#1#1#--18"Check dependencies36"6672C942-0E12-43E5-AC5E-4424641BB492-
 
 CCompileC Craft.build/Debug/tinycthread.build/Objects-normal/x86_64/tinycthread.o /Users/michael/Documents/Programming/Craft/tinycthread/tinycthread.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
 s408903473.977636

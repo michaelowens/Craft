@@ -316,7 +316,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa225fb8d615fb841^e273fb8d615fb841^---0#1#1#--18"Check dependencies36"8A273A4D-3288-4CE2-8F55-D0A3E4A729D8-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies49baca23645fb841^5913cb23645fb841^---0#1#1#--18"Check dependencies36"1E4FF0B9-B2E7-4D1C-B338-D616BA1C98E9-
 
 CCompileC Craft.build/Debug/glfw.build/Objects-normal/x86_64/clipboard.o /Users/michael/Documents/Programming/Craft/glfw/src/clipboard.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
 s408903476.978795

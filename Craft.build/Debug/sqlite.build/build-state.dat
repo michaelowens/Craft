@@ -76,7 +76,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3389fa8d615fb841^1ae0fa8d615fb841^---0#1#1#--18"Check dependencies36"0CA93808-E6FB-4351-A1AF-D1A87EB00F19-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd8b9c923645fb841^5039ca23645fb841^---0#1#1#--18"Check dependencies36"0692DBF1-2EE7-4A2B-B97F-11F6705B8DAA-
 
 CCompileC Craft.build/Debug/sqlite.build/Objects-normal/x86_64/shell.o /Users/michael/Documents/Programming/Craft/sqlite/shell.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
 s408903474.003648

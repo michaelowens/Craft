@@ -53,7 +53,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies207efa8d615fb841^d3dcfa8d615fb841^---0#1#1#--18"Check dependencies36"371961C2-6A3D-4BD6-B2C1-F362D4F24776-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies45bcc923645fb841^c349ca23645fb841^---0#1#1#--18"Check dependencies36"42FA3B8B-0BA5-400D-8A29-9C3BF9490DED-
 
 CCompileC Craft.build/Debug/lodepng.build/Objects-normal/x86_64/lodepng.o /Users/michael/Documents/Programming/Craft/lodepng/lodepng.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
 s408903473.995765
